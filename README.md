@@ -1,4 +1,4 @@
-# Team Hub Jira Service
+# Typescript Microservice Template
 
 ## Features
 
